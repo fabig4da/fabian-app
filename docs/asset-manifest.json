@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0cfd5456.chunk.css",
+    "main.js": "/static/js/main.cce2fb37.chunk.js",
+    "main.js.map": "/static/js/main.cce2fb37.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.379c3ffe.js",
+    "runtime-main.js.map": "/static/js/runtime-main.379c3ffe.js.map",
+    "static/js/2.bde28aea.chunk.js": "/static/js/2.bde28aea.chunk.js",
+    "static/js/2.bde28aea.chunk.js.map": "/static/js/2.bde28aea.chunk.js.map",
+    "static/js/3.4f81a989.chunk.js": "/static/js/3.4f81a989.chunk.js",
+    "static/js/3.4f81a989.chunk.js.map": "/static/js/3.4f81a989.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.0cfd5456.chunk.css.map": "/static/css/main.0cfd5456.chunk.css.map",
+    "static/js/2.bde28aea.chunk.js.LICENSE.txt": "/static/js/2.bde28aea.chunk.js.LICENSE.txt",
+    "static/media/Blinding Lights.c5a704b0.mp3": "/static/media/Blinding Lights.c5a704b0.mp3",
+    "static/media/I m Still Here Sia.d3013d74.mp3": "/static/media/I m Still Here Sia.d3013d74.mp3",
+    "static/media/Khalid - Better (Official Video).95caa6af.mp3": "/static/media/Khalid - Better (Official Video).95caa6af.mp3",
+    "static/media/Sia - Move Your Body (Single Mix) [Lyric].d437f596.mp3": "/static/media/Sia - Move Your Body (Single Mix) [Lyric].d437f596.mp3",
+    "static/media/Tones and I - Dance Monkey (Lyrics).07bc7ea9.mp3": "/static/media/Tones and I - Dance Monkey (Lyrics).07bc7ea9.mp3",
+    "static/media/albina-she-wolf-sia-and-david-guetta_(Cool.DJ).81e076f3.mp3": "/static/media/albina-she-wolf-sia-and-david-guetta_(Cool.DJ).81e076f3.mp3",
+    "static/media/pista1.d4df5030.mp3": "/static/media/pista1.d4df5030.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.379c3ffe.js",
+    "static/js/2.bde28aea.chunk.js",
+    "static/css/main.0cfd5456.chunk.css",
+    "static/js/main.cce2fb37.chunk.js"
+  ]
+}
